@@ -20,3 +20,4 @@ Sample Output
 After the script has completed, go to the Excel workbook, and you should see the results of the script.
 
 Here are screenshots of what the output looks like when I ran the scripts on my computer. These screenshots are also available in the VBAStocks/screenshots folder of this repository.
+![2014 Result](https://github.com/kanamoore/VBA-Challenge/blob/master/Multi%20year%20stock_2014.PNG)
